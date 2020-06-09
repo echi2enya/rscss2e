@@ -8,11 +8,8 @@ We use prefix like FLOCSS.
 
 ## THX
 
-rscss
-https://rscss.io/
-
-FLOCSS
-https://github.com/hiloki/flocss
+rscss https://rscss.io/
+flocss https://github.com/hiloki/flocss
 
 ## Build Setup
 
