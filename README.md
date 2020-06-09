@@ -1,6 +1,10 @@
 # rscss2e
 
-> My astounding Nuxt.js project
+> Our astounding rscss modify project
+
+## For the time being
+
+We use prefix like FLOCSS.
 
 ## Build Setup
 
