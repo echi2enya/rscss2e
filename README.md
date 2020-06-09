@@ -8,7 +8,7 @@ We use prefix like FLOCSS.
 
 ## THX
 
-rscss  　
+rscss  
 https://rscss.io/
 
 flocss  
